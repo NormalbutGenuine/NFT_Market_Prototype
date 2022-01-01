@@ -1,0 +1,45 @@
+.App{
+  position: absolute;
+  left: 1000px;
+  top: 350px;
+}
+
+#mintButton{
+  position: relative;
+  left: -450px;
+  width: 130px;
+  height: 39px;
+  font-size: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: purple;
+  color: violet;
+  border: 0px;
+  shape-outside: margin-box;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#mintButton:hover{
+  background-color: cyan;
+}
+
+#token{
+  position: relative;
+  left: -590px;
+  top: -150px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#result {
+  position: relative;
+  left: -565px;
+  top: -270px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#price {
+  position: relative;
+  left: -555px;
+  top: -390px;
+  font-family: 'Times New Roman', Times, serif;
+}
